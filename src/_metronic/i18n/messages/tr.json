@@ -1,0 +1,152 @@
+{
+    "TRANSLATOR.SELECT": "Select your language",
+    "MENU.NEW": "new",
+    "MENU.ACTIONS": "Actions",
+    "MENU.CREATE_POST": "Create New Post",
+    "MENU.PAGES": "Pages",
+    "MENU.FEATURES": "Features",
+    "MENU.APPS": "Apps",
+    "MENU.DASHBOARD": "Güncel Durumum",
+    "AUTH.GENERAL.OR": "Or",
+    "AUTH.GENERAL.SUBMIT_BUTTON": "Submit",
+    "AUTH.GENERAL.NO_ACCOUNT": "Don't have an account?",
+    "AUTH.GENERAL.SIGNUP_BUTTON": "Sign Up",
+    "AUTH.GENERAL.FORGOT_BUTTON": "Forgot Password",
+    "AUTH.GENERAL.BACK_BUTTON": "Back",
+    "AUTH.GENERAL.PRIVACY": "Privacy",
+    "AUTH.GENERAL.LEGAL": "Legal",
+    "AUTH.GENERAL.CONTACT": "Contact",
+    "AUTH.LOGIN.TITLE": "YDA",
+    "AUTH.LOGIN.BUTTON": "Sign In",
+    "AUTH.FORGOT.TITLE": "Forgotten Password?",
+    "AUTH.FORGOT.DESC": "Enter your email to reset your password",
+    "AUTH.FORGOT.SUCCESS": "Your account has been successfully reset.",
+    "AUTH.REGISTER.TITLE": "Sign Up",
+    "AUTH.REGISTER.DESC": "Enter your details to create your account",
+    "AUTH.REGISTER.SUCCESS": "Your account has been successfuly registered.",
+    "AUTH.INPUT.EMAIL": "Email",
+    "AUTH.INPUT.FULLNAME": "Fullname",
+    "AUTH.INPUT.PASSWORD": "Password",
+    "AUTH.INPUT.CONFIRM_PASSWORD": "Confirm Password",
+    "AUTH.INPUT.USERNAME": "Username",
+    "AUTH.VALIDATION.INVALID": "{name} is not valid",
+    "AUTH.VALIDATION.REQUIRED": "{name} is required",
+    "AUTH.VALIDATION.MIN_LENGTH": "{name}} minimum length is {{min}",
+    "AUTH.VALIDATION.AGREEMENT_REQUIRED": "Accepting terms & conditions are required",
+    "AUTH.VALIDATION.NOT_FOUND": "The requested {name} is not found",
+    "AUTH.VALIDATION.INVALID_LOGIN": "Kullanıcı adı veya şifreniz hatalıdır.",
+    "AUTH.VALIDATION.REQUIRED_FIELD": "Bu alan gereklidir",
+    "AUTH.VALIDATION.MIN_LENGTH_FIELD": "Minimum field length:",
+    "AUTH.VALIDATION.MAX_LENGTH_FIELD": "Maximum field length:",
+    "AUTH.VALIDATION.INVALID_FIELD": "Field is not valid",
+    "ECOMMERCE.COMMON.SELECTED_RECORDS_COUNT": "Selected records count: ",
+    "ECOMMERCE.COMMON.ALL": "All",
+    "ECOMMERCE.COMMON.SUSPENDED": "Suspended",
+    "ECOMMERCE.COMMON.ACTIVE": "Active",
+    "ECOMMERCE.COMMON.FILTER": "Filter",
+    "ECOMMERCE.COMMON.BY_STATUS": "by Status",
+    "ECOMMERCE.COMMON.BY_TYPE": "by Type",
+    "ECOMMERCE.COMMON.BUSINESS": "Business",
+    "ECOMMERCE.COMMON.INDIVIDUAL": "Individual",
+    "ECOMMERCE.COMMON.SEARCH": "Search",
+    "ECOMMERCE.COMMON.IN_ALL_FIELDS": "in all fields",
+    "ECOMMERCE.ECOMMERCE": "eCommerce",
+    "ECOMMERCE.CUSTOMERS.CUSTOMERS": "Customers",
+    "ECOMMERCE.CUSTOMERS.CUSTOMERS_LIST": "Customers list",
+    "ECOMMERCE.CUSTOMERS.NEW_CUSTOMER": "New Customer",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.TITLE": "Customer Delete",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.DESCRIPTION": "Are you sure to permanently delete this customer?",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.WAIT_DESCRIPTION": "Customer is deleting...",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_SIMPLE.MESSAGE": "Customer has been deleted",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.TITLE": "Customers Delete",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.DESCRIPTION": "Are you sure to permanently delete selected customers?",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.WAIT_DESCRIPTION": "Customers are deleting...",
+    "ECOMMERCE.CUSTOMERS.DELETE_CUSTOMER_MULTY.MESSAGE": "Selected customers have been deleted",
+    "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.TITLE": "Status has been updated for selected customers",
+    "ECOMMERCE.CUSTOMERS.UPDATE_STATUS.MESSAGE": "Selected customers status have successfully been updated",
+    "ECOMMERCE.CUSTOMERS.EDIT.UPDATE_MESSAGE": "Customer has been updated",
+    "ECOMMERCE.CUSTOMERS.EDIT.ADD_MESSAGE": "Customer has been created",
+
+
+
+
+
+
+
+
+
+
+
+    
+    "MENU.MAINPAGE": "Anasayfa",
+    "MENU.USERS": "Personel Listesi",
+    "MENU.SYSTEM_INFO": "Sisteme İlişkin Bilgiler",
+    "MENU.TIP_LIBRARY": "TIP Kütüphanesi",
+    "MENU.TIP_PERFORMANCE": "TIP Performansı",
+    "MENU.REPORTS": "Raporlar",
+    "MENU.DATAENTRIES": "Veri Girişi",
+    "MENU.EXIT": "Çıkış",
+
+   
+    "MENU.DATAENTRIES.MONTHINDRES": "Aylık Bireysel Sonuç",
+    "MENU.DATAENTRIES.INDRES": "Bireysel Sonuç",
+    "MENU.DATAENTRIES.GLHR": "Genel Kütüphane İsabet Oranı",
+    "MENU.DATAENTRIES.IO": "Giriş Çıkış",
+    "MENU.DATAENTRIES.TVR": "TIP Görüntü Sonuç",
+
+
+
+    "MENU.TIP_LIBRARY.CTI"  :"CTI Kütüphanesi",
+    "MENU.TIP_LIBRARY.FTI"  :"FTI Kütüphanesi",
+    "MENU.REPORTS.DATE": "Tarih Bazında",
+    "MENU.REPORTS.DATE.DAY": "Günlük Raporlar",
+    "MENU.REPORTS.DATE.WEEK": "Haftalık Raporlar",
+    "MENU.REPORTS.DATE.MONTH": "Aylık Raporlar",
+    "MENU.REPORTS.DATE.4MONTH": "4 Aylık Raporlar",
+    "MENU.REPORTS.DATE.8MONTH": "8 Aylık Raporlar",
+    "MENU.REPORTS.DATE.YEAR": "Yıllık Raporlar",
+
+    "MENU.REPORTS.USER": "Kişi Bazında",
+    "MENU.REPORTS.DEVICE": "Cihaz Bazında",
+    "MENU.USERS.NEW_USER"  :"Yeni Personel",
+    "MENU.USERS.FILTER_BY_DEVICE_ID"  :"Cihaz Id sine göre filtrele",
+    "MENU.USERS.FILTER_BY_TC_NO"  :"TcNo ya göre filtrele",
+    "MENU.EDIT"  :"Düzenle",
+    "MENU.FILTER"  :"Filtrele",
+    "MENU.CLEAN"  :"Temizle",
+    "MENU.SEARCH"  :"Ara",
+    "MENU.DELETE"  :"Sil",
+    "MENU.CANCEL" : "İptal",
+    "MENU.CLOSE" : "Kapat",
+    "MENU.SAVE" : "KAYDET",
+    "MENU.LOADING" : "Yükleniyor...",
+    "MENU.TABLE_NORECORD" : "Hiç sonuç bulunamadı...",
+    "MENU.FILTER_BY_CODE":"Koda göre filtrele",
+
+    "MENU.USERS.DELETE_MSG": "Bu personeli kalıcı olarak silmek istediğinizden emin misiniz ?",
+    "MENU.USERS.DELETING": "Kullanıcı Siliniyor...",
+    "MENU.USERS.DEL": "Kullanıcıyı Sil",
+
+    "MENU.SYSTEM_INFORMATIONS.NEW" : "Yeni Bilgi Oluştur",
+    "MENU.SYSTEM_INFORMATIONS.ADMINS" : "TIP Yöneticileri",
+    "MENU.FTILIBS" : "FTI Kütüphanesi",
+    "MENU.FTILIBS.NEW_FTILIB" : "Yeni FTI Kütüphanesi",
+    "MENU.FTI_LIBS.DELETE_MSG" : "Bu görüntüyü kalıcı olarak silmek istediğinizden emin misiniz ?",
+    "MENU.FTI_LIBS.DELETING": "Görüntü Siliniyor...",
+    "MENU.FTI_LIBS.DEL": "Görüntüyü Sil",
+
+    "MENU.USERS.MONTHLY_IND_RES" : "Aylık Bireysel Sonuçlar",
+
+    "MENU.TIPPERFORMANCE.TIP":"TIP Performansı",
+    "MENU.TIPPERFORMANCE.NONTIP" : "Non-TIP Performansı",
+    "MENU.NONTIPPERFORMANCES.NEW_NONTIPPERFORMANCE" : "Yeni Non-TIP Performansı",
+    "MENU.TIPPERFORMANCES.NEW_TIPPERFORMANCE" : "Yeni TIP Performansı",
+    "MENU.TIPPERFORMANCES.FILTER_BY_TIP_NAME": "Tip Adına göre filtrele",
+    "MENU.SYSTEMINFORMATIONS.DEL" : "Sistem Bilgisini Sil",
+    "MENU.SYSTEMINFORMATIONS.DELETE_MSG" : "Bu sistem bilgisini kalıcı olarak silmek istediğinizden emin misiniz ?",
+    "MENU.SYSTEMINFORMATIONS.DELETING" : "Sistem bilgisi siliniyor..."
+
+
+
+  }
+  
